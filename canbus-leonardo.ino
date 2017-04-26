@@ -30,13 +30,13 @@ unsigned char STEERING_WHEEL_NEXT[3] = {0x1, 0x91, 0x0};
 unsigned char STEERING_WHEEL_PREVIOUS[3] = {0x1, 0x92, 0x0};
 unsigned char STEERING_WHEEL_RELEASE[3] = {0x1, 0x0, 0x0};
 
-unsigned char STEERING_WHEEL_NUMBER2[3] = {0x1, 0x32, 0x0}; // 2
-unsigned char STEERING_WHEEL_NUMBER4[3] = {0x1, 0x34, 0x0}; // 4
-unsigned char STEERING_WHEEL_NUMBER5[3] = {0x1, 0x35, 0x0}; // 5
-unsigned char STEERING_WHEEL_NUMBER6[3] = {0x1, 0x36, 0x0}; // 6
-unsigned char STEERING_WHEEL_NUMBER7[3] = {0x1, 0x37, 0x0}; // 7
-unsigned char STEERING_WHEEL_NUMBER8[3] = {0x1, 0x38, 0x0}; // 8
-unsigned char STEERING_WHEEL_NUMBER9[3] = {0x1, 0x39, 0x0}; // 9
+unsigned char CD30_NUMBER2[3] = {0x1, 0x32, 0x0}; // 2
+unsigned char CD30_NUMBER4[3] = {0x1, 0x34, 0x0}; // 4
+unsigned char CD30_NUMBER5[3] = {0x1, 0x35, 0x0}; // 5
+unsigned char CD30_NUMBER6[3] = {0x1, 0x36, 0x0}; // 6
+unsigned char CD30_NUMBER7[3] = {0x1, 0x37, 0x0}; // 7
+unsigned char CD30_NUMBER8[3] = {0x1, 0x38, 0x0}; // 8
+unsigned char CD30_NUMBER9[3] = {0x1, 0x39, 0x0}; // 9
 
 void setup() {
   Keyboard.begin();
