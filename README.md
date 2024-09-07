@@ -1,4 +1,4 @@
-# astra-h-canbusshield
+# astra-h-canbus-shield
 
 This project allows you to listen to CAN-BUS signals over the OBD2 port of an Opel/Vauxhall Astra H and control the music player of an Android device, using steering wheel buttons.
 
