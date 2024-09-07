@@ -1,9 +1,12 @@
 # astra-h-canbusshield
-Listen CAN-BUS over OBD2 and control music player of android device
 
-Development boards
-- Arduino LEONARDO
-- SEED STUDIO CAN-BUS Shield - https://github.com/Seeed-Studio/CAN_BUS_Shield
+This project allows you to listen to CAN-BUS signals over the OBD2 port of an Opel/Vauxhall Astra H and control the music player of an Android device, using steering wheel buttons.
 
-Used Libraries
-- Arduino HID Project - https://github.com/NicoHood/HID
+## Development Boards
+- **Arduino Leonardo**
+- **Seeed Studio CAN-BUS Shield**  
+  [CAN-BUS Shield GitHub](https://github.com/Seeed-Studio/CAN_BUS_Shield)
+
+## Libraries Used
+- **Arduino HID Project**  
+  [HID Project GitHub](https://github.com/NicoHood/HID)
